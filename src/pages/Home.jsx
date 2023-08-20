@@ -2,7 +2,7 @@ const Home = () => {
   return (
     <div>
       Home
-      Changed by pavan
+      Changed by Rahul
       Damn
     </div>
   )
